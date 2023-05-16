@@ -23,4 +23,18 @@ This is the official repository for the Findings of ACL 2023 paper "[AugESC: Dia
   booktitle={Findings of ACL},
   year={2023}
 }
+
+@inproceedings{liu-etal-2021-towards,
+  title={Towards Emotional Support Dialog Systems},
+  author={Liu, Siyang  and 
+    Zheng, Chujie  and 
+    Demasi, Orianna  and 
+    Sabour, Sahand  and 
+    Li, Yu  and 
+    Yu, Zhou  and 
+    Jiang, Yong  and 
+    Huang, Minlie},
+  booktitle={ACL},
+  year={2021}
+}
 ```
